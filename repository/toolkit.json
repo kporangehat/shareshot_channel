@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0.0",
+  "bundles": [
+    {
+      "name": "tk-multi-renderfarm",
+      "details": "https://github.com/mfx-cgi/tk-multi-renderfarm",
+      "releases": [
+        {
+          "toolkit_core": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "tk-maya-playblast",
+      "details": "https://github.com/basestudio/tk-maya-playblast",
+      "releases": [
+        {
+          "toolkit_core": "*",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "tk-maya-playblast",
+      "details": "https://github.com/mfx-cgi/tk-maya-playblast",
+      "releases": [
+        {
+          "toolkit_core": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "tk-multi-reload",
+      "details": "https://github.com/RichardTheStork/tk-multi-reload",
+      "releases": [
+        {
+          "toolkit_core": "*",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "tk-multi-popsitionlistexport",
+      "details": "https://github.com/RichardTheStork/tk-multi-positionlistExport",
+      "releases": [
+        {
+          "toolkit_core": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "tk-multi-chat",
+      "details": "https://github.com/manneohrstrom/tk-multi-chat",
+      "releases": [
+        {
+          "toolkit_core": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "tk-modo",
+      "details": "https://github.com/tremolo/tk-modo",
+      "releases": [
+        {
+          "toolkit_core": "*",
+          "tags": true
+        }
+      ]
+    },
+  ]
+}
