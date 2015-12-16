@@ -1,35 +1,25 @@
 {
   "schema_version": "1.0.0",
-  "bundles": [
-    {
-      "name": "ShotgunORM",
-      "details": "https://github.com/ndunsworth/python-shotgunorm",
-      "releases": [
-        {
-          "shotgun_api": "*",
-          "branch": "master"
-        }
-      ]
-    },
-    {
-      "name": "sgsession",
-      "details": "https://github.com/westernx/sgsession",
-      "releases": [
-        {
-          "shotgun_api": "*",
-          "branch": "master"
-        }
-      ]
-    },
-    {
-      "name": "shotgun-ami",
-      "details": "https://github.com/pboucher/shotgun-ami",
-      "releases": [
-        {
-          "shotgun_api": "*",
-          "branch": "master"
-        }
-      ]
-    },
-  ]
+  "bundles": [{
+    "name": "ShotgunORM",
+    "details": "https://github.com/ndunsworth/python-shotgunorm",
+    "releases": [{
+      "shotgun_api": "*",
+      "branch": "master"
+    }]
+  }, {
+    "name": "sgsession",
+    "details": "https://github.com/westernx/sgsession",
+    "releases": [{
+      "shotgun_api": "*",
+      "branch": "master"
+    }]
+  }, {
+    "name": "shotgun-ami",
+    "details": "https://github.com/pboucher/shotgun-ami",
+    "releases": [{
+      "shotgun_api": "*",
+      "branch": "master"
+    }]
+  }]
 }
