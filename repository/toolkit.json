@@ -3,6 +3,7 @@
   "bundles": [{
     "name": "tk-multi-renderfarm",
     "details": "https://github.com/mfx-cgi/tk-multi-renderfarm",
+    "labels": ["toolkit", "render", "apps"],
     "releases": [{
       "toolkit_core": "*",
       "tags": true
@@ -10,6 +11,7 @@
   }, {
     "name": "tk-maya-playblast",
     "details": "https://github.com/basestudio/tk-maya-playblast",
+    "labels": ["toolkit", "maya", "playblast", "apps"],
     "releases": [{
       "toolkit_core": "*",
       "branch": "master"
@@ -17,6 +19,7 @@
   }, {
     "name": "tk-maya-playblast",
     "details": "https://github.com/mfx-cgi/tk-maya-playblast",
+    "labels": ["toolkit", "maya", "playblast", "apps"],
     "releases": [{
       "toolkit_core": "*",
       "tags": true
@@ -24,6 +27,7 @@
   }, {
     "name": "tk-multi-reload",
     "details": "https://github.com/RichardTheStork/tk-multi-reload",
+    "labels": ["toolkit", "utilities", "apps"],
     "releases": [{
       "toolkit_core": "*",
       "branch": "master"
@@ -31,6 +35,7 @@
   }, {
     "name": "tk-multi-popsitionlistexport",
     "details": "https://github.com/RichardTheStork/tk-multi-positionlistExport",
+    "labels": ["toolkit", "export", "apps"],
     "releases": [{
       "toolkit_core": "*",
       "tags": true
@@ -38,6 +43,7 @@
   }, {
     "name": "tk-multi-chat",
     "details": "https://github.com/manneohrstrom/tk-multi-chat",
+    "labels": ["toolkit", "chat", "social", "communication", "apps"],
     "releases": [{
       "toolkit_core": "*",
       "tags": true
@@ -45,6 +51,7 @@
   }, {
     "name": "tk-modo",
     "details": "https://github.com/tremolo/tk-modo",
+    "labels": ["toolkit", "engines", "modo", "foundry"],
     "releases": [{
       "toolkit_core": "*",
       "tags": true
