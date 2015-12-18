@@ -24,5 +24,13 @@
       "shotgun_api": "*",
       "branch": "master"
     }]
+  }, {
+    "name": "awesome-o",
+    "details": "https://github.com/kporangehat/awesome-o",
+    "labels": ["aawesome", "sauce", "happy holidays"],
+    "releases": [{
+      "shotgun_api": "*",
+      "tags": true
+    }]
   }]
 }
