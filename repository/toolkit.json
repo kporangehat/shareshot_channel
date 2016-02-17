@@ -128,6 +128,14 @@
       "toolkit_core": "*",
       "branch": "master"
     }]
+  }, {
+    "name": "tk-multi-foobar",
+    "details": "https://github.com/kporangehat/tk-multi-foobar",
+    "labels": ["foo", "bar", "cupcakes"],
+    "releases": [{
+      "toolkit_core": "*",
+      "tags": true
+    }]
   }
   ]
 }
