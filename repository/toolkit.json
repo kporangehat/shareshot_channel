@@ -56,5 +56,78 @@
       "toolkit_core": "*",
       "tags": true
     }]
-  }]
+  }, {
+    "name": "tk-multi-opennotes",
+    "details": "https://github.com/nebukadhezer/tk-multi-opennotes",
+    "labels": ["toolkit", "shotgun", "notes"],
+    "releases": [{
+      "toolkit_core": "*",
+      "tags": true
+    }]
+  }, {
+    "name": "tk-multi-workfiles-mik",
+    "details": "https://github.com/tlhomme/tk-multi-workfiles-mik",
+    "labels": ["tk-multi-workfiles"],
+    "releases": [{
+      "toolkit_core": "*",
+      "tags": true
+    }]
+  }, {
+    "name": "tk-maya-playblast",
+    "details": "https://github.com/vipul-rathod/tk-maya-playblast",
+    "labels": ["tk-maya-playblast", "playblast", "maya"],
+    "releases": [{
+      "toolkit_core": "*",
+      "tags": true
+    }]
+  }, {
+    "name": "tk-register-version",
+    "details": "https://github.com/vipul-rathod/tk-register-version",
+    "labels": ["versions", "submission", "review"],
+    "releases": [{
+      "toolkit_core": "*",
+      "tags": true
+    }]
+  }, {
+    "name": "tk-custom-loader01",
+    "details": "https://github.com/vipul-rathod/tk-custom-loader01",
+    "labels": ["loader"],
+    "releases": [{
+      "toolkit_core": "*",
+      "tags": true
+    }]
+  }, {
+    "name": "tk-multi-notifications",
+    "details": "https://github.com/sylvainberger/tk-multi-notifications",
+    "labels": ["notifications"],
+    "releases": [{
+      "toolkit_core": "*",
+      "branch": "master"
+    }]
+  }, {
+    "name": "tk-multi-pyblish",
+    "details": "https://github.com/dshlai/tk-multi-pyblish",
+    "labels": ["pyblish", "launcher"],
+    "releases": [{
+      "toolkit_core": "*",
+      "branch": "master"
+    }]
+  }, {
+    "name": "pyblish-shotgun",
+    "details": "https://github.com/dshlai/pyblish-shotgun",
+    "labels": ["pyblish"],
+    "releases": [{
+      "toolkit_core": "0.16.x",
+      "tags": true
+    }]
+  }, {
+    "name": "matchmove-publish-app",
+    "details": "https://github.com/andrewbunday/matchmove-publish-app",
+    "labels": ["matchmove", "publish", "app"],
+    "releases": [{
+      "toolkit_core": "*",
+      "branch": "master"
+    }]
+  }
+  ]
 }
