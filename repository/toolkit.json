@@ -45,8 +45,7 @@
     "details": "https://github.com/manneohrstrom/tk-multi-chat",
     "labels": ["toolkit", "chat", "social", "communication", "apps"],
     "releases": [{
-      "toolkit_core": "*",
-      "tags": true
+      "toolkit_core": "*"
     }]
   }, {
     "name": "tk-modo",
