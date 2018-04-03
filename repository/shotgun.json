@@ -1,36 +1,24 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.0.1",
   "bundles": [{
     "name": "ShotgunORM",
     "details": "https://github.com/ndunsworth/python-shotgunorm",
     "labels": ["wrapper", "oop", "orm"],
-    "releases": [{
-      "shotgun_api": "*",
-      "branch": "master"
-    }]
+    "releases": "branch:master"
   }, {
     "name": "sgsession",
     "details": "https://github.com/westernx/sgsession",
     "labels": ["sessions"],
-    "releases": [{
-      "shotgun_api": "*",
-      "branch": "master"
-    }]
+    "releases": "branch:master"
   }, {
     "name": "shotgun-ami",
     "details": "https://github.com/pboucher/shotgun-ami",
     "labels": ["action menu items", "ami", "protocol handlers"],
-    "releases": [{
-      "shotgun_api": "*",
-      "branch": "master"
-    }]
+    "releases": "branch:master"
   }, {
     "name": "awesome-o",
     "details": "https://github.com/kporangehat/awesome-o",
     "labels": ["aawesome", "sauce", "happy holidays"],
-    "releases": [{
-      "shotgun_api": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }]
 }

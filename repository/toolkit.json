@@ -1,140 +1,91 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.0.1",
   "bundles": [{
     "name": "tk-multi-renderfarm",
     "details": "https://github.com/mfx-cgi/tk-multi-renderfarm",
     "labels": ["toolkit", "render", "apps"],
-    "releases": [{
-      "toolkit_core": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }, {
     "name": "tk-maya-playblast",
     "details": "https://github.com/basestudio/tk-maya-playblast",
     "labels": ["toolkit", "maya", "playblast", "apps"],
-    "releases": [{
-      "toolkit_core": "*",
-      "branch": "master"
-    }]
+    "releases": "branch:master"
+
   }, {
     "name": "tk-maya-playblast",
     "details": "https://github.com/mfx-cgi/tk-maya-playblast",
     "labels": ["toolkit", "maya", "playblast", "apps"],
-    "releases": [{
-      "toolkit_core": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }, {
     "name": "tk-multi-reload",
     "details": "https://github.com/RichardTheStork/tk-multi-reload",
     "labels": ["toolkit", "utilities", "apps"],
-    "releases": [{
-      "toolkit_core": "*",
-      "branch": "master"
-    }]
+    "releases": "branch:master"
   }, {
     "name": "tk-multi-popsitionlistexport",
     "details": "https://github.com/RichardTheStork/tk-multi-positionlistExport",
     "labels": ["toolkit", "export", "apps"],
-    "releases": [{
-      "toolkit_core": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }, {
     "name": "tk-multi-chat",
     "details": "https://github.com/manneohrstrom/tk-multi-chat",
     "labels": ["toolkit", "chat", "social", "communication", "apps"],
-    "releases": [{
-      "toolkit_core": "*"
-    }]
+    "releases": "releases"
   }, {
     "name": "tk-modo",
     "details": "https://github.com/tremolo/tk-modo",
     "labels": ["toolkit", "engines", "modo", "foundry"],
-    "releases": [{
-      "toolkit_core": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }, {
     "name": "tk-multi-opennotes",
     "details": "https://github.com/nebukadhezer/tk-multi-opennotes",
     "labels": ["toolkit", "shotgun", "notes"],
-    "releases": [{
-      "toolkit_core": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }, {
     "name": "tk-multi-workfiles-mik",
     "details": "https://github.com/tlhomme/tk-multi-workfiles-mik",
     "labels": ["tk-multi-workfiles"],
-    "releases": [{
-      "toolkit_core": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }, {
     "name": "tk-maya-playblast",
     "details": "https://github.com/vipul-rathod/tk-maya-playblast",
     "labels": ["tk-maya-playblast", "playblast", "maya"],
-    "releases": [{
-      "toolkit_core": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }, {
     "name": "tk-register-version",
     "details": "https://github.com/vipul-rathod/tk-register-version",
     "labels": ["versions", "submission", "review"],
-    "releases": [{
-      "toolkit_core": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }, {
     "name": "tk-custom-loader01",
     "details": "https://github.com/vipul-rathod/tk-custom-loader01",
     "labels": ["loader"],
-    "releases": [{
-      "toolkit_core": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }, {
     "name": "tk-multi-notifications",
     "details": "https://github.com/sylvainberger/tk-multi-notifications",
     "labels": ["notifications"],
-    "releases": [{
-      "toolkit_core": "*",
-      "branch": "master"
-    }]
+    "releases": "tags"
   }, {
     "name": "tk-multi-pyblish",
     "details": "https://github.com/dshlai/tk-multi-pyblish",
     "labels": ["pyblish", "launcher"],
-    "releases": [{
-      "toolkit_core": "*",
-      "branch": "master"
-    }]
+    "releases": "branch:master"
   }, {
     "name": "pyblish-shotgun",
     "details": "https://github.com/dshlai/pyblish-shotgun",
     "labels": ["pyblish"],
-    "releases": [{
-      "toolkit_core": "0.16.x",
-      "tags": true
-    }]
+    "releases": "tags"
   }, {
     "name": "matchmove-publish-app",
     "details": "https://github.com/andrewbunday/matchmove-publish-app",
     "labels": ["matchmove", "publish", "app"],
-    "releases": [{
-      "toolkit_core": "*",
-      "branch": "master"
-    }]
+    "releases": "branch:master"
   }, {
     "name": "tk-multi-foobar",
     "details": "https://github.com/kporangehat/tk-multi-foobar",
     "labels": ["foo", "bar", "cupcakes"],
-    "releases": [{
-      "toolkit_core": "*",
-      "tags": true
-    }]
+    "releases": "tags"
   }
   ]
 }
