@@ -27,7 +27,8 @@ Event daemon triggers and related tools. Triggers should be compatible with the 
 ```
 {
     "name": "tk-multi-foobar",
-    "details": "https://github.com/kporangehat/tk-multi-foobar",
+    "details": "https://github.com/kporangehat/tk-multi-foobar"
+    "type": "tk-app"
     "labels": ["foobar", "bar", "cupcakes"],
     "releases": "releases"
 }
@@ -35,6 +36,7 @@ Event daemon triggers and related tools. Triggers should be compatible with the 
 
 - `name`: The name of your project. 
 - `details`: The full URL to your project's home on Github
+- `type`: (Toolkit only) type of Toolkit bundle your project is. Valid options are `tk-app`, `tk-engine`, `tk-framework`)
 - `labels`: Optional tags to help in classifying your project.
 - `releases`: Defines how Bundle Kitty will detect releases of your project. Valid options are:
   
